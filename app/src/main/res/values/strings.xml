@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Korean Actor</string>
+    <string name="hint_word">Input Your Favorite Korean Actor</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">The word cannot be saved because it is empty</string>
+    <string name="Hapus">All data has been deleted</string>
+</resources>
